@@ -23,4 +23,4 @@ Configurations:
 | LFDMA  | 1  | 1  |
 
 ## Results
-![Alt text](relative%20path/to/img.jpg?raw=true "Title")
+![Alt text](images/PAPR.pdf?raw=true "Title")
