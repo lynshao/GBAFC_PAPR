@@ -23,4 +23,4 @@ Configurations:
 | LFDMA  | 1  | 1  |
 
 ## Results
-![Alt text](images/PAPR.pdf?raw=true "Title")
+![Alt text](PAPR.pdf?raw=true "Title")
